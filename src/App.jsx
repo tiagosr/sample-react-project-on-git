@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        This is the blurb, hello world!
+        This is the blurb, hello world! Adding extra stuff!
       </p>
     </>
   )
